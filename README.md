@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **aviboy2006/aviboy2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Twitter: @aviboy2006 Linkedin: https://www.linkedin.com/in/avinash-dalvi-315b021a/
 - 😄 Pronouns: Avi
 - ⚡ Fun fact: I am hungry for learning and helping
--->
