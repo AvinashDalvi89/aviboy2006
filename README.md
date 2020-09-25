@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Stackoverflow and Projects
 - 🤔 I’m looking for help with Open source
 - 💬 Ask me about AWS S3, CloudFront, VPC, EC2, Route53, Angular, PHP, UI, AWS Lambda, Python.
-- 📫 How to reach me: Twitter: @aviboy2006 Linkedin: https://www.linkedin.com/in/avinash-dalvi-315b021a/
+- 📫 How to reach me:  [![Twitter](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=ffffff)](https://twitter.com/aviboy2006)   [![Linkedin](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=ffffff)](https://www.linkedin.com/in/avinash-dalvi-315b021a/) 
 - 😄 Pronouns: Avi
 - ⚡ Fun fact: I am hungry for learning and helping
 
