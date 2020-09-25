@@ -1,7 +1,5 @@
 ### Hi there 👋, Geeks 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on one idea 
 - 🌱 I’m currently learning Titanium Native app framework and Javascript in depth
 - 👯 I’m looking to collaborate on Stackoverflow and Projects
