@@ -27,3 +27,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aviboy2006)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Avinash's github stats](https://github-readme-stats.vercel.app/api?username=aviboy2006&show_icons=true)
+
+![](https://komarev.com/ghpvc/?username=aviboy2006&color=green)
