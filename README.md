@@ -31,3 +31,5 @@
 ![Avinash's github stats](https://github-readme-stats.vercel.app/api?username=aviboy2006&show_icons=true)
 
 ![](https://komarev.com/ghpvc/?username=aviboy2006&color=green)
+
+<a href="https://app.daily.dev/aviboy2006"><img src="https://api.daily.dev/devcards/6bb770d24d2348cc97c77fcf2f61d757.png?r=epp" width="400" alt="Avinash Dalvi's Dev Card"/></a>
